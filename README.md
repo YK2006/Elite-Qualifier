@@ -1,6 +1,6 @@
 # Title
 
-Simple (or clever and funny?) description
+Autocorrect
 
 ## Table of Contents
 
@@ -12,14 +12,14 @@ Simple (or clever and funny?) description
 
 ## Background
 
-This is why this application exists.
+My application helps you always spell some select words perfectly
 
 ## Install
 
-These are the steps to setup your local environment to run this application.
+you just have to press run.
 
 ## Usage
 
-These are the steps to use the application or interact with it.
+If you spell some selct words wrong, this code will immediatly change it to the correct spelling
 
 ### Any optional sections
