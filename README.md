@@ -23,3 +23,4 @@ you just have to press run.
 If you spell some selct words wrong, this code will immediatly change it to the correct spelling
 
 ### Any optional sections
+This project is for C2C
