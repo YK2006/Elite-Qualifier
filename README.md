@@ -23,3 +23,10 @@ you just have to press run.
 If you spell some selct words wrong, this code will immediatly change it to the correct spelling
 
 ### Any optional sections
+
+## Test Plan
+
+To test the project:
+
+1. Run the test
+2. Check the results
