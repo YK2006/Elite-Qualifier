@@ -24,11 +24,8 @@ If you spell some selct words wrong, this code will immediatly change it to the 
 
 ### Any optional sections
 
+
 ## Test Plan
 
 To test the project:
 
-1. Run the test
-2. Check the results
-3. Submit test report
-4. 
