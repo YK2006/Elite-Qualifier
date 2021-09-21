@@ -24,3 +24,10 @@ If you spell some selct words wrong, this code will immediatly change it to the 
 
 ### Any optional sections
 This project is for C2C
+
+## Test Plan
+
+To test the project:
+
+1.  Run the test
+2.  Check the results
